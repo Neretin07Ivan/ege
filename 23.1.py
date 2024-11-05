@@ -4,5 +4,5 @@ def F(n,x):
     elif n>x:
         return 0
     else:
-        return F(n+1,x)+F(n*2,x)
-print (F(3,26))
+        return F(n+1,x)+F(n*3,x)
+print (F(2,32))
