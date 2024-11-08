@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6278186b-8524-4189-8870-67c5df7116df" name="Changes" comment="create">
-      <change afterPath="$PROJECT_DIR$/12.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.1.py" afterDir="false" />
+    <list default="true" id="6278186b-8524-4189-8870-67c5df7116df" name="Changes" comment="a">
+      <change afterPath="$PROJECT_DIR$/17.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/16.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/23.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/23.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +53,11 @@
     "Python.12.1.executor": "Run",
     "Python.14.1.executor": "Run",
     "Python.16.1.executor": "Run",
+    "Python.17.1.executor": "Run",
+    "Python.19.1.executor": "Run",
     "Python.2.1.executor": "Run",
+    "Python.20.1.executor": "Run",
+    "Python.21.1.executor": "Run",
     "Python.23.1.executor": "Run",
     "Python.24.1.executor": "Run",
     "Python.5.1.executor": "Run",
@@ -65,6 +66,11 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ege" />
@@ -145,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728760434441</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="a">
+      <option name="closed" value="true" />
+      <created>1730807058537</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730807058537</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,7 +175,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create" />
-    <option name="LAST_COMMIT_MESSAGE" value="create" />
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
