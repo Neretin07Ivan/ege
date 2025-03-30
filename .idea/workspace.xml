@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6278186b-8524-4189-8870-67c5df7116df" name="Changes" comment="a">
-      <change afterPath="$PROJECT_DIR$/25.1 ege.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/25.1.py" afterDir="false" />
-    </list>
+    <list default="true" id="6278186b-8524-4189-8870-67c5df7116df" name="Changes" comment="a" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -206,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743337381631</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="a">
+      <option name="closed" value="true" />
+      <created>1743340506814</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1743340506814</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
