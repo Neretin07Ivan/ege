@@ -1,9 +1,9 @@
-print("x y z w")
-for x in range(2):
-    for y in range(2):
-        for z in range(2):
-            for w in range(2):
-
-                if not(((y <= x) and (z or w)) <= ((x and not(w)) or (y == z))):
-                    print(x,y,z,w)
+print("a,b,c,d")
+for a in range(2):
+    for d in range(2):
+        for b in range(2):
+            for c in range(2):
+                # (z ∧ y) ∨ ((x → z ) ≡ (y → w))
+                if c and (a or d) and (not d or b):
+                    print(a,b,c,d)
 

@@ -5,4 +5,4 @@ def F(n,x):
         return 0
     else:
         return F(n+1,x)+F(n*3,x)
-print (F(2,32))
+print (F(3,33))
