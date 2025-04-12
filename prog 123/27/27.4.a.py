@@ -42,6 +42,6 @@ for i in f:
 c1 = cent(k1)
 c2 = cent(k2)
 print(c1,c2)
-Cx = abs(int((float(c1[0]) + float(c2[0]))*10000//2))
-Cy = abs(int((float(c1[1]) + float(c2[1]))*10000//2))
+Cx = abs(((float(c1[0]) + float(c2[0]))*10000/2))
+Cy = abs(((float(c1[1]) + float(c2[1]))*10000/2))
 print(Cx, Cy)

@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6278186b-8524-4189-8870-67c5df7116df" name="Changes" comment="a">
-      <change afterPath="$PROJECT_DIR$/prog 123/13/13.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/15/15.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/16/16.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/17/17.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/27/27.4.a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/27/27.4.b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/27/files/27_4_А.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/27/files/27_4_Б.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/5/5.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog 123/25/maska/25.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog 123/26/26.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog 123/26/files/26-3.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog 123/17/files/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prog 123/17/files/17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog 123/2/2.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/prog 123/2/2.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog 123/27/27.4.a.py" beforeDir="false" afterPath="$PROJECT_DIR$/prog 123/27/27.4.a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog 123/27/27.4.b.py" beforeDir="false" afterPath="$PROJECT_DIR$/prog 123/27/27.4.b.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,74 +50,78 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.12.1.executor": "Run",
-    "Python.14.1.executor": "Run",
-    "Python.15.1.executor": "Run",
-    "Python.16.1.executor": "Run",
-    "Python.17.1.executor": "Run",
-    "Python.17.2.executor": "Run",
-    "Python.19.1.executor": "Run",
-    "Python.19.2.executor": "Run",
-    "Python.2.1.executor": "Run",
-    "Python.2.2.executor": "Run",
-    "Python.2.3.executor": "Run",
-    "Python.2.4.executor": "Run",
-    "Python.20.1.executor": "Run",
-    "Python.20.2.executor": "Run",
-    "Python.21.1.executor": "Run",
-    "Python.21.2.executor": "Run",
-    "Python.23.1.executor": "Run",
-    "Python.24.1.executor": "Run",
-    "Python.24.2.executor": "Run",
-    "Python.25.1 ege.executor": "Run",
-    "Python.25.1.executor": "Run",
-    "Python.25.2.executor": "Run",
-    "Python.27.4.b.executor": "Run",
-    "Python.27.4.executor": "Run",
-    "Python.5.1.executor": "Run",
-    "Python.5.2.executor": "Run",
-    "Python.6.1.executor": "Run",
-    "Python.8.1.executor": "Run",
-    "Python.8.10(ege2023).executor": "Run",
-    "Python.8.2.executor": "Run",
-    "Python.8.3.executor": "Run",
-    "Python.8.4(ege2023).executor": "Run",
-    "Python.8.4.executor": "Run",
-    "Python.8.5(ege2024).executor": "Run",
-    "Python.8.5.executor": "Run",
-    "Python.8.6.executor": "Run",
-    "Python.8.7_itertools_permutations.executor": "Run",
-    "Python.8.9.executor": "Run",
-    "Python.9.1.executor": "Run",
-    "Python.9.2.executor": "Run",
-    "Python.9.3.executor": "Run",
-    "Python.9.4.executor": "Run",
-    "Python.9.5.executor": "Run",
-    "Python.9.6.executor": "Run",
-    "Python.9.7.executor": "Run",
-    "Python.9.8.executor": "Run",
-    "Python.itertools_Виды.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.12.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.21.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.21.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25.1 ege.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.26.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27.4.a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27.4.b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27.5.a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.10(ege2023).executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.4(ege2023).executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.5(ege2024).executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.7_itertools_permutations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.itertools_Виды.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/prog 123/26/files" />
       <recent name="$PROJECT_DIR$/prog 123/27/files" />
       <recent name="$PROJECT_DIR$/prog 123/17/files" />
       <recent name="C:\Users\Alex\PycharmProjects\ege\prog 123\9" />
       <recent name="C:\Users\Alex\PycharmProjects\ege\prog 123\9\файлы" />
-      <recent name="C:\Users\Alex\PycharmProjects\ege\prog 123\8\sistemi_schis" />
     </key>
   </component>
   <component name="RunManager">
@@ -282,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744357399641</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="a">
+      <option name="closed" value="true" />
+      <created>1744366272150</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1744366272150</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,18 +317,21 @@
     <SUITE FILE_PATH="coverage/ege$9_8.coverage" NAME="9.8 Coverage Results" MODIFIED="1743693535370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/9" />
     <SUITE FILE_PATH="coverage/ege$8_1.coverage" NAME="8.1 Coverage Results" MODIFIED="1743680971474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/8/kombinatorika" />
     <SUITE FILE_PATH="coverage/ege$8_4_ege2023_.coverage" NAME="8.4(ege2023) Coverage Results" MODIFIED="1743680012270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/8/sistemi_schis" />
-    <SUITE FILE_PATH="coverage/ege$27_4_b.coverage" NAME="27.4.b Coverage Results" MODIFIED="1744366015254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/27" />
+    <SUITE FILE_PATH="coverage/ege$27_4_b.coverage" NAME="27.4.b Coverage Results" MODIFIED="1744398263271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/27" />
     <SUITE FILE_PATH="coverage/ege$8_5.coverage" NAME="8.5 Coverage Results" MODIFIED="1743682633504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/8/kombinatorika" />
     <SUITE FILE_PATH="coverage/ege$15_1.coverage" NAME="15.1 Coverage Results" MODIFIED="1744362916538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/15" />
     <SUITE FILE_PATH="coverage/ege$5_1.coverage" NAME="5.1 Coverage Results" MODIFIED="1743514683988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/5" />
+    <SUITE FILE_PATH="coverage/ege$26_1.coverage" NAME="26.1 Coverage Results" MODIFIED="1744399045326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/26" />
     <SUITE FILE_PATH="coverage/ege$17_2.coverage" NAME="17.2 Coverage Results" MODIFIED="1744364187349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/17" />
     <SUITE FILE_PATH="coverage/ege$9_6.coverage" NAME="9.6 Coverage Results" MODIFIED="1743692753829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/9" />
     <SUITE FILE_PATH="coverage/ege$9_1.coverage" NAME="9.1 Coverage Results" MODIFIED="1743690877257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/9" />
     <SUITE FILE_PATH="coverage/ege$2_4.coverage" NAME="2.4 Coverage Results" MODIFIED="1744357689745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/2" />
     <SUITE FILE_PATH="coverage/ege$8_3.coverage" NAME="8.3 Coverage Results" MODIFIED="1743681659035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/8/kombinatorika" />
+    <SUITE FILE_PATH="coverage/ege$25_6.coverage" NAME="25.6 Coverage Results" MODIFIED="1744397906611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/25/maska" />
     <SUITE FILE_PATH="coverage/ege$16_1.coverage" NAME="16.1 Coverage Results" MODIFIED="1744363188361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/16" />
     <SUITE FILE_PATH="coverage/ege$6_1.coverage" NAME="6.1 Coverage Results" MODIFIED="1743518500456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/6" />
     <SUITE FILE_PATH="coverage/ege$8_7_itertools_permutations.coverage" NAME="8.7_itertools_permutations Coverage Results" MODIFIED="1743683386720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/8/kombinatorika" />
+    <SUITE FILE_PATH="coverage/ege$27_4_a.coverage" NAME="27.4.a Coverage Results" MODIFIED="1744398365556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/27" />
     <SUITE FILE_PATH="coverage/ege$itertools_.coverage" NAME="itertools_Виды Coverage Results" MODIFIED="1743683686911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/8/kombinatorika" />
     <SUITE FILE_PATH="coverage/ege$8_6.coverage" NAME="8.6 Coverage Results" MODIFIED="1743683219101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/8/kombinatorika" />
     <SUITE FILE_PATH="coverage/ege$9_4.coverage" NAME="9.4 Coverage Results" MODIFIED="1743691846127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/9" />
@@ -334,6 +343,7 @@
     <SUITE FILE_PATH="coverage/ege$8_9.coverage" NAME="8.9 Coverage Results" MODIFIED="1743683946404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/8/kombinatorika" />
     <SUITE FILE_PATH="coverage/ege$8_2.coverage" NAME="8.2 Coverage Results" MODIFIED="1743681306630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/8/kombinatorika" />
     <SUITE FILE_PATH="coverage/ege$2_3.coverage" NAME="2.3 Coverage Results" MODIFIED="1743514412146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/2" />
+    <SUITE FILE_PATH="coverage/ege$27_5_a.coverage" NAME="27.5.a Coverage Results" MODIFIED="1744398206388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/27" />
     <SUITE FILE_PATH="coverage/ege$main.coverage" NAME="main Coverage Results" MODIFIED="1744357484295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ege$8_5_ege2024_.coverage" NAME="8.5(ege2024) Coverage Results" MODIFIED="1743680206939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/8/sistemi_schis" />
     <SUITE FILE_PATH="coverage/ege$5_2.coverage" NAME="5.2 Coverage Results" MODIFIED="1744360960606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/5" />
