@@ -1,4 +1,4 @@
-s = open(r'/Users/user/Downloads/24.txt').readlines()
+s = open(r'/Users/user/Downloads/24.1.txt').readlines()
 min = s[0]
 k=0
 for line in s:
