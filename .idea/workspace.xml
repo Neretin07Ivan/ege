@@ -5,34 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6278186b-8524-4189-8870-67c5df7116df" name="Changes" comment="a">
-      <change afterPath="$PROJECT_DIR$/prog 123/13/13.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/15/15.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/16/16.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/17/17.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/2/2.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/24/24.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/24/files/24.1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/25/dell/25.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/26/26.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/26/files/26.2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/27/27.5a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/27/27.5b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/27/files/27_5_A.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/27/files/27_5_B.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/5/5.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/8/sistemi_schis/8.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/9/9.9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/9/files/9.9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog 123/2/2.6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog 123/17/files/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prog 123/17/files/17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog 123/27/files/27_12_A.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog 123/27/files/27_12_B.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog 123/27/files/27_3_A.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog 123/27/files/27_3_B.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog 123/27/files/27var4A.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog 123/27/files/27var4B.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zagotovki_AV/19-20_game/20.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/zagotovki_AV/19-20_game/20.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zagotovki_AV/24/24.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/zagotovki_AV/24/24.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +65,7 @@
     &quot;Python.2.3.executor&quot;: &quot;Run&quot;,
     &quot;Python.2.4.executor&quot;: &quot;Run&quot;,
     &quot;Python.2.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.6.executor&quot;: &quot;Run&quot;,
     &quot;Python.20.1.executor&quot;: &quot;Run&quot;,
     &quot;Python.20.2.executor&quot;: &quot;Run&quot;,
     &quot;Python.21.1.executor&quot;: &quot;Run&quot;,
@@ -203,7 +178,8 @@
       <workItem from="1743677072621" duration="12531000" />
       <workItem from="1744460754060" duration="1559000" />
       <workItem from="1744813600825" duration="14008000" />
-      <workItem from="1745040598792" duration="706000" />
+      <workItem from="1745040598792" duration="1430000" />
+      <workItem from="1745082076095" duration="1242000" />
     </task>
     <task id="LOCAL-00001" summary="create">
       <option name="closed" value="true" />
@@ -333,7 +309,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744460774703</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="a">
+      <option name="closed" value="true" />
+      <created>1745051186630</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1745051186630</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,6 +360,7 @@
     <SUITE FILE_PATH="coverage/ege$8_10_ege2023_.coverage" NAME="8.10(ege2023) Coverage Results" MODIFIED="1743684286036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/8/kombinatorika" />
     <SUITE FILE_PATH="coverage/ege$2_1.coverage" NAME="2.1 Coverage Results" MODIFIED="1743499777187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/2" />
     <SUITE FILE_PATH="coverage/ege$25_5.coverage" NAME="25.5 Coverage Results" MODIFIED="1745040925556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/25/dell" />
+    <SUITE FILE_PATH="coverage/ege$2_6.coverage" NAME="2.6 Coverage Results" MODIFIED="1745053657703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/2" />
     <SUITE FILE_PATH="coverage/ege$5_3.coverage" NAME="5.3 Coverage Results" MODIFIED="1744815037256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/5" />
     <SUITE FILE_PATH="coverage/ege$8_9.coverage" NAME="8.9 Coverage Results" MODIFIED="1743683946404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/8/kombinatorika" />
     <SUITE FILE_PATH="coverage/ege$27_5_a.coverage" NAME="27.5.a Coverage Results" MODIFIED="1744398206388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/27" />
