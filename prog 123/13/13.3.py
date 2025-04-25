@@ -18,3 +18,6 @@ for i in s2:
     if i not in s1:
         k += 1
 print(k)
+
+print(2**32)
+print(1024**3 *4)
