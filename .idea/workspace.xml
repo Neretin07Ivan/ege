@@ -5,22 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6278186b-8524-4189-8870-67c5df7116df" name="Changes" comment="a">
-      <change afterPath="$PROJECT_DIR$/prog 123/24/24.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/24/24.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/24/24.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/24/24.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/24/24.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/24/24.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/24/24.8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/24/24.9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/24/files/24.10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/24/files/24.3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/24/files/24_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/24/files/24_22osn_PNO.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/24/files/24_23dosr.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/24/files/24_23osn.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/24/files/24_23rezerv.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog 123/24/files/AUBCD.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog 123/14/14.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog 123/14/14.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog 123/14/14.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog 123/14/14.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog 123/14/14.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog 123/14/14.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prog 123/14/14.7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +58,12 @@
     "Python.13.3.executor": "Run",
     "Python.13.4.executor": "Run",
     "Python.14.1.executor": "Run",
+    "Python.14.2.executor": "Run",
+    "Python.14.3.executor": "Run",
+    "Python.14.4.executor": "Run",
+    "Python.14.5.executor": "Run",
+    "Python.14.6.executor": "Run",
+    "Python.14.7.executor": "Run",
     "Python.15.1.executor": "Run",
     "Python.15.2.executor": "Run",
     "Python.15.3.executor": "Run",
@@ -153,6 +150,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -214,7 +212,9 @@
       <workItem from="1745082076095" duration="2517000" />
       <workItem from="1745519706090" duration="1346000" />
       <workItem from="1745572741704" duration="7622000" />
-      <workItem from="1745592307049" duration="4957000" />
+      <workItem from="1745592307049" duration="5547000" />
+      <workItem from="1745611284676" duration="10000" />
+      <workItem from="1745695945355" duration="1851000" />
     </task>
     <task id="LOCAL-00001" summary="create">
       <option name="closed" value="true" />
@@ -368,7 +368,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745584486033</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="a">
+      <option name="closed" value="true" />
+      <created>1745609143366</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1745609143366</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -401,9 +409,11 @@
     <SUITE FILE_PATH="coverage/ege$17_2.coverage" NAME="17.2 Coverage Results" MODIFIED="1744364187349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/17" />
     <SUITE FILE_PATH="coverage/ege$9_6.coverage" NAME="9.6 Coverage Results" MODIFIED="1743692753829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/9" />
     <SUITE FILE_PATH="coverage/ege$13_4.coverage" NAME="13.4 Coverage Results" MODIFIED="1745521815861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/13" />
+    <SUITE FILE_PATH="coverage/ege$14_2.coverage" NAME="14.2 Coverage Results" MODIFIED="1745696276265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/14" />
     <SUITE FILE_PATH="coverage/ege$9_1.coverage" NAME="9.1 Coverage Results" MODIFIED="1743690877257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/9" />
     <SUITE FILE_PATH="coverage/ege$24_5.coverage" NAME="24.5 Coverage Results" MODIFIED="1745601470530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/24" />
     <SUITE FILE_PATH="coverage/ege$8_3.coverage" NAME="8.3 Coverage Results" MODIFIED="1743681659035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/8/kombinatorika" />
+    <SUITE FILE_PATH="coverage/ege$14_5.coverage" NAME="14.5 Coverage Results" MODIFIED="1745696625037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/14" />
     <SUITE FILE_PATH="coverage/ege$25_6.coverage" NAME="25.6 Coverage Results" MODIFIED="1744397906611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/25/maska" />
     <SUITE FILE_PATH="coverage/ege$9_9.coverage" NAME="9.9 Coverage Results" MODIFIED="1744820825648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/9" />
     <SUITE FILE_PATH="coverage/ege$27_14a.coverage" NAME="27.14a Coverage Results" MODIFIED="1745583496296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/27" />
@@ -421,7 +431,8 @@
     <SUITE FILE_PATH="coverage/ege$5_3.coverage" NAME="5.3 Coverage Results" MODIFIED="1744815037256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/5" />
     <SUITE FILE_PATH="coverage/ege$8_9.coverage" NAME="8.9 Coverage Results" MODIFIED="1743683946404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/8/kombinatorika" />
     <SUITE FILE_PATH="coverage/ege$27_5_a.coverage" NAME="27.5.a Coverage Results" MODIFIED="1744398206388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/27" />
-    <SUITE FILE_PATH="coverage/ege$main.coverage" NAME="main Coverage Results" MODIFIED="1745600552649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ege$main.coverage" NAME="main Coverage Results" MODIFIED="1745696171465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ege$14_4.coverage" NAME="14.4 Coverage Results" MODIFIED="1745696488088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/14" />
     <SUITE FILE_PATH="coverage/ege$8_5_ege2024_.coverage" NAME="8.5(ege2024) Coverage Results" MODIFIED="1743680206939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/8/sistemi_schis" />
     <SUITE FILE_PATH="coverage/ege$5_2.coverage" NAME="5.2 Coverage Results" MODIFIED="1744360960606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/5" />
     <SUITE FILE_PATH="coverage/ege$24_4.coverage" NAME="24.4 Coverage Results" MODIFIED="1745601151898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/24" />
@@ -436,11 +447,13 @@
     <SUITE FILE_PATH="coverage/ege$9_8.coverage" NAME="9.8 Coverage Results" MODIFIED="1743693535370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/9" />
     <SUITE FILE_PATH="coverage/ege$8_4.coverage" NAME="8.4 Coverage Results" MODIFIED="1743682223712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/8/kombinatorika" />
     <SUITE FILE_PATH="coverage/ege$16_2.coverage" NAME="16.2 Coverage Results" MODIFIED="1744823437237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/16" />
+    <SUITE FILE_PATH="coverage/ege$14_6.coverage" NAME="14.6 Coverage Results" MODIFIED="1745697057282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/14" />
     <SUITE FILE_PATH="coverage/ege$8_1.coverage" NAME="8.1 Coverage Results" MODIFIED="1743680971474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/8/kombinatorika" />
     <SUITE FILE_PATH="coverage/ege$8_4_ege2023_.coverage" NAME="8.4(ege2023) Coverage Results" MODIFIED="1743680012270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/8/sistemi_schis" />
     <SUITE FILE_PATH="coverage/ege$26_2.coverage" NAME="26.2 Coverage Results" MODIFIED="1744831426383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/26" />
     <SUITE FILE_PATH="coverage/ege$15_1.coverage" NAME="15.1 Coverage Results" MODIFIED="1744362916538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/15" />
-    <SUITE FILE_PATH="coverage/ege$24_10.coverage" NAME="24.10 Coverage Results" MODIFIED="1745603824640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/24" />
+    <SUITE FILE_PATH="coverage/ege$24_10.coverage" NAME="24.10 Coverage Results" MODIFIED="1745609249804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/24" />
+    <SUITE FILE_PATH="coverage/ege$14_3.coverage" NAME="14.3 Coverage Results" MODIFIED="1745696343182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/14" />
     <SUITE FILE_PATH="coverage/ege$5_1.coverage" NAME="5.1 Coverage Results" MODIFIED="1743514683988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/5" />
     <SUITE FILE_PATH="coverage/ege$20_2.coverage" NAME="20.2 Coverage Results" MODIFIED="1745041095983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zagotovki_AV/19-20_game" />
     <SUITE FILE_PATH="coverage/ege$21_3.coverage" NAME="21.3 Coverage Results" MODIFIED="1745584428014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zagotovki_AV/19-20_game" />
@@ -451,6 +464,7 @@
     <SUITE FILE_PATH="coverage/ege$8_6.coverage" NAME="8.6 Coverage Results" MODIFIED="1743683219101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/8/kombinatorika" />
     <SUITE FILE_PATH="coverage/ege$15_2.coverage" NAME="15.2 Coverage Results" MODIFIED="1744823151864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/15" />
     <SUITE FILE_PATH="coverage/ege$9_7.coverage" NAME="9.7 Coverage Results" MODIFIED="1743693070304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/9" />
+    <SUITE FILE_PATH="coverage/ege$14_7.coverage" NAME="14.7 Coverage Results" MODIFIED="1745697136427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/14" />
     <SUITE FILE_PATH="coverage/ege$24_2.coverage" NAME="24.2 Coverage Results" MODIFIED="1745583799647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/24" />
     <SUITE FILE_PATH="coverage/ege$27_4.coverage" NAME="27.4 Coverage Results" MODIFIED="1744365621250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/27" />
     <SUITE FILE_PATH="coverage/ege$9_3.coverage" NAME="9.3 Coverage Results" MODIFIED="1743691519637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/9" />
@@ -460,6 +474,7 @@
     <SUITE FILE_PATH="coverage/ege$24_7.coverage" NAME="24.7 Coverage Results" MODIFIED="1745602147340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/24" />
     <SUITE FILE_PATH="coverage/ege$17_3.coverage" NAME="17.3 Coverage Results" MODIFIED="1745040616819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/17" />
     <SUITE FILE_PATH="coverage/ege$24_1.coverage" NAME="24.1 Coverage Results" MODIFIED="1744830581500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/24" />
+    <SUITE FILE_PATH="coverage/ege$14_1.coverage" NAME="14.1 Coverage Results" MODIFIED="1745696174757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/14" />
     <SUITE FILE_PATH="coverage/ege$8_7.coverage" NAME="8.7 Coverage Results" MODIFIED="1744815949871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prog 123/8/sistemi_schis" />
   </component>
 </project>
